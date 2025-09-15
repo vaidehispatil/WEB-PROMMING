@@ -3,6 +3,7 @@ COZY BEANS COFFEE SHOP WEBSITE
 PROJECT OVERVIEW:- 
 
 1.Introduction
+
 1.1 Background of Study
 Coffee shops have become an integral part of urban culture, serving as social hubs where people gather for business meetings, casual hangouts, and personal relaxation. With the increasing reliance on digital platforms, having an online presence is crucial for coffee shops to attract and retain customers. This project aims to develop a responsive and user-friendly website for a coffee shop, enabling customers to explore the menu, place orders, and learn about special offers.
 
